@@ -9,7 +9,7 @@
 #
 app:
   name: RideAll # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 110910910 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: images/app-icon-512.jpg # Leave blank to auto-magically populate
@@ -76,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Rideall# Optional - Enter your site title
+title: Rideall # Optional - Enter your site title
 description: Rideall Description # Optional - Enter your site description
 
 #
