@@ -34,7 +34,7 @@ marketing_desc: RideAll is a Ridesharing app that brings every available reliabl
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: https://github.com/harshadilruk
   facebook:
   twitter:
   pinterest:
