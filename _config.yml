@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: # Optional
-marketing_desc: RideAll is a Ridesharing app that brings every available reliable rides to your fingertips in seconds.
+marketing_desc: RideAll is a Ridesharing app that brings every available reliable rides around you to your fingertips within seconds.
 
 #
 # Social Links
@@ -35,13 +35,13 @@ marketing_desc: RideAll is a Ridesharing app that brings every available reliabl
 #
 social-links:
   github: https://github.com/harshadilruk
-  facebook:
-  twitter:
-  pinterest:
-  instagram:
-  email:
-  youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  facebook: https://www.facebook.com
+  twitter: https://www.facebook.com
+  pinterest: 
+  instagram: https://www.facebook.com
+  email: https://www.facebook.com
+  youtube: https://www.facebook.com # channel/<your_long_string> or <user-name>
+  googleplus: https://www.facebook.com # anything in your profile username that comes after plus.google.com/
 
 #
 # Enable/Disable Features & Page Elements
