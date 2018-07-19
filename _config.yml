@@ -16,7 +16,7 @@ app:
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
-
+  icon:
   screenshot: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
@@ -58,7 +58,7 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-space-gray-vertical # REQUIRED
 
 #
 # Theme Settings
@@ -77,7 +77,7 @@ download_button_text_color: white; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: Rideall# Optional - Enter your site title
-description: # Optional - Enter your site description
+description: Rideall Description # Optional - Enter your site description
 
 #
 # Google Analytics
