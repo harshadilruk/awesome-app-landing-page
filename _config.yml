@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Go Anywhere you want # Optional
+marketing_header: # Optional
 marketing_desc: RideAll is a Ridesharing app that brings every available reliable rides to your fingertips in seconds.
 
 #
