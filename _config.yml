@@ -9,7 +9,7 @@
 #
 app:
   name: RideAll # REQUIRED - Enter your app name
-  ios_id: 110910910 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: images/app-icon-512.jpg # Leave blank to auto-magically populate
@@ -34,7 +34,7 @@ marketing_desc: RideAll is a Ridesharing app that brings every available reliabl
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://github.com/harshadilruk
+  github: 
   facebook: https://www.facebook.com
   twitter: https://www.facebook.com
   pinterest: 
@@ -82,7 +82,8 @@ description: Rideall Description # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-123394423-1
+# Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
